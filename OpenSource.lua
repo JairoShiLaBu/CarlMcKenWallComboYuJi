@@ -108,7 +108,7 @@ local function handleCharacter(character)
 
 				-- Startup Sound
 				local sound = Instance.new("Sound")
-				sound.SoundId = "rbxassetid://112089323132965"
+				sound.SoundId = "rbxassetid://82456352204709"
 				sound.Volume = 2
 				sound.Parent = root
 				sound:Play()
